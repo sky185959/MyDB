@@ -1,0 +1,419 @@
+{
+    "data": {
+        "across_banner_list": [
+        
+        ],
+        "primary_filter": [
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 100,
+                           "name": "美食",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 910,
+                           "gray_url": "http://p1.meituan.net/jungle/050c1d01797e4b4013fd0b789911b33e7901.png",
+                           "url": "http://p0.meituan.net/jungle/3231ff9e68d4e13fd7f1901d742feb785976.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=910&categorytype=910&categorytext=%E7%BE%8E%E9%A3%9F"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 200,
+                           "name": "超市",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 20,
+                           "gray_url": "http://p1.meituan.net/jungle/ad8078b0742ced737c5a91527c7813457981.png",
+                           "url": "http://p1.meituan.net/jungle/9364491f122755cf5d8caff560cabeec6371.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=20&categorytype=20&categorytext=%E8%B6%85%E5%B8%82"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 300,
+                           "name": "鲜果购",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 21,
+                           "gray_url": "http://p0.meituan.net/jungle/178835733c583c31cfea5a89057420718409.png",
+                           "url": "http://p0.meituan.net/jungle/368e2cd7da106e2236a8d6096a8957b96874.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=21&categorytype=21&categorytext=%E9%B2%9C%E6%9E%9C%E8%B4%AD"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 400,
+                           "name": "甜点饮品",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 19,
+                           "gray_url": "http://p0.meituan.net/jungle/32f7c3c1755d7d0f31dd8ab841449ecc8073.png",
+                           "url": "http://p1.meituan.net/jungle/9fb7b182038707254561dd44973145646478.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=19&categorytype=19&categorytext=%E7%94%9C%E7%82%B9%E9%A5%AE%E5%93%81"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 500,
+                           "name": "正餐优选",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 950,
+                           "gray_url": "http://p0.meituan.net/jungle/5c44482cbd65c95cc614b9668a9f26758111.png",
+                           "url": "http://p1.meituan.net/jungle/09358b273dc7532e185c20f956d4482b6422.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=950&categorytype=950&categorytext=%E6%AD%A3%E9%A4%90%E4%BC%98%E9%80%89"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 600,
+                           "name": "美团专送",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 960,
+                           "gray_url": "http://p1.meituan.net/jungle/8158133d20903f64baa8c9f0f45fcd018102.png",
+                           "url": "http://p0.meituan.net/jungle/2fc6f40817f68f81ab62c8749579dcaa6565.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?filtertype=-7&filtertext=%E7%BE%8E%E5%9B%A2%E4%B8%93%E9%80%81&navigate_type=960&multifiltercodes=-7&multifiltertext=%e7%be%8e%e5%9b%a2%e4%b8%93%e9%80%81&cateId=28"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 700,
+                           "name": "夜宵",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 970,
+                           "gray_url": "http://p1.meituan.net/jungle/cdecdf21a2fae9cd9d117eccdec498987860.png",
+                           "url": "http://p0.meituan.net/jungle/5caa17f68fa6733f6c14b785fcef56fe5777.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=970&categorytype=970&categorytext=%E5%A4%9C%E5%AE%B5"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 800,
+                           "name": "龙虾烧烤",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 100187,
+                           "gray_url": "http://p0.meituan.net/jungle/2fd8fdfcc547b210580e7102d55cd3758579.png",
+                           "url": "http://p0.meituan.net/jungle/d6d88069df032b6de58490b7bc3320637643.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=100187&categorytype=100187&categorytext=%E9%BE%99%E8%99%BE%E7%83%A7%E7%83%A4"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 900,
+                           "name": "免配送费",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 100182,
+                           "gray_url": "http://p0.meituan.net/jungle/af16fdff9990e1e1099144f3b39f2d159824.png",
+                           "url": "http://p1.meituan.net/jungle/6376c793877aa4b381264ee72634e4229560.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?multifiltercodes=-3&multifiltertext=%e5%85%8d%e9%85%8d%e9%80%81%e8%b4%b9&titletext=%e5%85%8d%e9%85%8d%e9%80%81%e8%b4%b9"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 1000,
+                           "name": "新商家",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 100179,
+                           "gray_url": "http://p0.meituan.net/jungle/0117f9065f96a9cf13a0a21ba7d5d1469711.png",
+                           "url": "http://p0.meituan.net/jungle/8edc4fb2421ab0c1a1289aa424bda3f99115.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=100179&categorytype=100179&categorytext=%E6%96%B0%E5%95%86%E5%AE%B6&filtertype=-8&filtertext=%E6%96%B0%E5%95%86%E5%AE%B6&multifiltercodes=-8&multifiltertext=%E6%96%B0%E5%95%86%E5%AE%B6"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 1100,
+                           "name": "鲜花蛋糕",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 23,
+                           "gray_url": "http://p0.meituan.net/jungle/f5a95bce6f5b0fc7221dbfccbc7d11247878.png",
+                           "url": "http://p0.meituan.net/jungle/4014f1259ca2c8e63fc0437fdd721fe96659.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=23&categorytype=23&categorytext=%E9%B2%9C%E8%8A%B1%E8%9B%8B%E7%B3%95"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 1200,
+                           "name": "日韩料理",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 100197,
+                           "gray_url": "http://p1.meituan.net/jungle/bb7a9673e32186c1db0c3f2d0dbe63278710.png",
+                           "url": "http://p0.meituan.net/jungle/fca3204d816eebd3bdf86b57f0714a717108.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=100197&categorytype=100197&categorytext=%E6%97%A5%E9%9F%A9%E6%96%99%E7%90%86"
+                           },
+                           {
+                           "bubble": null,
+                           "gray_switch": 0,
+                           "sequence": 1300,
+                           "name": "家常菜",
+                           "brand_type": -1,
+                           "method": 1369692,
+                           "first_tag_codes": [
+                           
+                           ],
+                           "code": 100209,
+                           "gray_url": "http://p0.meituan.net/jungle/2fd8fdfcc547b210580e7102d55cd3758579.png",
+                           "url": "http://p1.meituan.net/jungle/703e39034a5979d9d110fd38b0777fa65816.png",
+                           "second_tag_codes": [
+                           
+                           ],
+                           "skip_protocol": "meituanwaimai://waimai.meituan.com/poifilter?navigate_type=100209&categorytype=100209&categorytext=%E5%AE%B6%E5%B8%B8%E8%8F%9C"
+                           }
+                           ],
+        "card_list": [
+                      {
+                      "cardId": 1,
+                      "title": "首页卡片1",
+                      "type": 1,
+                      "block_list": [
+                                     {
+                                     "position": 0,
+                                     "title_icon": "http://p1.meituan.net/xianfu/0299616095c3ab5795db730e5ce37fb13489.png@!style1",
+                                     "label_bg_color": "#E80000",
+                                     "zm_order": -1,
+                                     "poi_num": 0,
+                                     "label": "招牌美食",
+                                     "poi_sort_type": 0,
+                                     "sub_title": "劲爆折扣专区",
+                                     "pic_url": "http://p1.meituan.net/xianfu/2f623d9c84fb3e7f81cb7b2af15843a422485.jpg@!style1",
+                                     "click_url": "http://i.meituan.com/firework/0511discount1?need_login=0&activity_id=1838&ys=1&ys_id=70",
+                                     "title": "超值折扣菜",
+                                     "share": {
+                                     "share_content": "",
+                                     "share_icon": "",
+                                     "share_flag": 0,
+                                     "share_title": "",
+                                     "share_url": ""
+                                     },
+                                     "countdown": {
+                                     "countdown_time": 0,
+                                     "countdown_bg": "",
+                                     "next_countdown_time": 0,
+                                     "current_state": -1
+                                     },
+                                     "wm_poi_ids": "",
+                                     "skip_type": 5,
+                                     "need_login": 0,
+                                     "sequence": 1,
+                                     "title_color": "#ff635b",
+                                     "act_rule": "",
+                                     "block_id": 70
+                                     },
+                                     {
+                                     "position": 2,
+                                     "title_icon": "",
+                                     "label_bg_color": "#ff8601",
+                                     "zm_order": -1,
+                                     "poi_num": 0,
+                                     "label": "不排队的人气美味",
+                                     "poi_sort_type": 0,
+                                     "sub_title": "高分餐馆排行榜",
+                                     "pic_url": "http://p0.meituan.net/xianfu/a26b6060b156977530002eaa1c4502e24096.png@!style1",
+                                     "click_url": "http://i.meituan.com/firework/dianpingqa?need_login=0&activity_id=3175&ys=1&ys_id=150",
+                                     "title": "点评高分店",
+                                     "share": {
+                                     "share_content": "",
+                                     "share_icon": "",
+                                     "share_flag": 0,
+                                     "share_title": "",
+                                     "share_url": ""
+                                     },
+                                     "countdown": {
+                                     "countdown_time": 0,
+                                     "countdown_bg": "",
+                                     "next_countdown_time": 0,
+                                     "current_state": -1
+                                     },
+                                     "wm_poi_ids": "",
+                                     "skip_type": 2,
+                                     "need_login": 0,
+                                     "sequence": 1,
+                                     "title_color": "#ff8601",
+                                     "act_rule": "",
+                                     "block_id": 150
+                                     },
+                                     {
+                                     "position": 0,
+                                     "title_icon": "",
+                                     "label_bg_color": "",
+                                     "zm_order": -1,
+                                     "poi_num": 0,
+                                     "label": "",
+                                     "poi_sort_type": 0,
+                                     "sub_title": "最高立减30元",
+                                     "pic_url": "http://p0.meituan.net/wmbanner/f85dc0bd3d7fd0eb91b5148b1ab46ded27378.png@!style1",
+                                     "click_url": "http://i.meituan.com/firework/xinkecipian?need_login=0&activity_id=4349&ys=1&ys_id=172",
+                                     "title": "新用户特权",
+                                     "share": {
+                                     "share_content": "",
+                                     "share_icon": "",
+                                     "share_flag": 0,
+                                     "share_title": "",
+                                     "share_url": ""
+                                     },
+                                     "countdown": {
+                                     "countdown_time": 0,
+                                     "countdown_bg": "",
+                                     "next_countdown_time": 0,
+                                     "current_state": -1
+                                     },
+                                     "wm_poi_ids": "",
+                                     "skip_type": 5,
+                                     "need_login": 0,
+                                     "sequence": 2,
+                                     "title_color": "#399109",
+                                     "act_rule": "",
+                                     "block_id": 172
+                                     },
+                                     {
+                                     "position": 0,
+                                     "title_icon": "",
+                                     "label_bg_color": "#c37cff",
+                                     "zm_order": -1,
+                                     "poi_num": 0,
+                                     "label": "好店2折起",
+                                     "poi_sort_type": 0,
+                                     "sub_title": "每天都有新优惠",
+                                     "pic_url": "http://p0.meituan.net/xianfu/0874d30c2625f5d219f524b0f78230fb17905.png@!style1",
+                                     "click_url": "http://i.meituan.com/firework/0504daemanjian?need_login=0&activity_id=1586&ys=1&ys_id=69",
+                                     "title": "天天满减",
+                                     "share": {
+                                     "share_content": "",
+                                     "share_icon": "",
+                                     "share_flag": 0,
+                                     "share_title": "",
+                                     "share_url": ""
+                                     },
+                                     "countdown": {
+                                     "countdown_time": 0,
+                                     "countdown_bg": "",
+                                     "next_countdown_time": 0,
+                                     "current_state": -1
+                                     },
+                                     "wm_poi_ids": "",
+                                     "skip_type": 5,
+                                     "need_login": 0,
+                                     "sequence": 5,
+                                     "title_color": "#c37cff",
+                                     "act_rule": "",
+                                     "block_id": 69
+                                     },
+                                     {
+                                     "position": 0,
+                                     "title_icon": "",
+                                     "label_bg_color": "#00ABE4",
+                                     "zm_order": -1,
+                                     "poi_num": 0,
+                                     "label": "每天吃不同",
+                                     "poi_sort_type": 0,
+                                     "sub_title": "热门新店推荐",
+                                     "pic_url": "http://p1.meituan.net/xianfu/0c1f3473c951dda053dde8e0203cd62022528.png@!style1",
+                                     "click_url": "http://i.meituan.com/firework/0614newpoi?need_login=0&activity_id=3181&ys=1&ys_id=143",
+                                     "title": "新店尝鲜",
+                                     "share": {
+                                     "share_content": "",
+                                     "share_icon": "",
+                                     "share_flag": 0,
+                                     "share_title": "",
+                                     "share_url": ""
+                                     },
+                                     "countdown": {
+                                     "countdown_time": 0,
+                                     "countdown_bg": "",
+                                     "next_countdown_time": 0,
+                                     "current_state": -1
+                                     },
+                                     "wm_poi_ids": "",
+                                     "skip_type": 5,
+                                     "need_login": 0,
+                                     "sequence": 10,
+                                     "title_color": "#00ABE4",
+                                     "act_rule": "",
+                                     "block_id": 143
+                                     }
+                                     ]
+                      }
+                      ]
+    },
+    "code": 0,
+    "msg": "成功"
+}
