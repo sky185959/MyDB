@@ -1,14 +1,9 @@
 {
     "iOSVersion": {
-        "version": "0.85",
+        "version": "0.8.5",
+        "appName": "Alpha Echo",
         "downloadUrl": "https://fir.im/ach9",
-        "new": [
-            "增加滚动流畅度",
-            "在查询中添加提问功能",
-            "分析添加中文合同和司法观点",
-            "添加法规，案例的分享",
-            "修复了一些已知BUG"
-        ]
+        "new": "增加滚动流畅度\r\n在查询中添加提问功能\r\n分析添加中文合同和司法观点\r\n添加法规，案例的分享\r\n修复了一些已知BUG"
     },
     "androidVersion": {
         "version": "0.9.9",
