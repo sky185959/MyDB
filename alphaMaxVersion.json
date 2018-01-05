@@ -9,5 +9,12 @@
             "添加法规，案例的分享",
             "修复了一些已知BUG"
         ]
+    },
+    "androidVersion": {
+        "version": "0.9.9",
+        "versionCode": "11",
+        "downloadUrl": "https://fir.im/3fqv",
+        "new": "增加滚动流畅度\r\n在查询中添加提问功能\r\n分析添加中文合同和司法观点\r\n添加法规，案例的分享\r\n修复了一些已知BUG"
     }
+
 }
