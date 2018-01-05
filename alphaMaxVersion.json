@@ -3,7 +3,7 @@
         "version": "0.8.5",
         "appName": "Alpha Echo",
         "downloadUrl": "https://fir.im/ach9",
-        "new": "增加滚动流畅度\r\n在查询中添加提问功能\r\n分析添加中文合同和司法观点\r\n添加法规，案例的分享\r\n修复了一些已知BUG"
+        "new": "1.增加滚动流畅度;\r\n2.在查询中添加提问功能;\r\n3.分析添加中文合同和司法观点;\r\n4.添加法规，案例的分享;\r\n5.修复了一些已知BUG。"
     },
     "androidVersion": {
         "version": "0.9.9",
