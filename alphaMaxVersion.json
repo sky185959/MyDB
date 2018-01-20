@@ -1,9 +1,9 @@
 {
     "iOSVersion": {
-        "version": "0.8.9.3",
+        "version": "0.8.9.4",
         "appName": "Alpha Echo",
         "downloadUrl": "https://fir.im/ach9",
-        "new": "闹钟，是人们最伟大的凭空创造。\r\n然而，重大会议场合,结果3个闹钟却不醒你?\r\n设置了闹钟，却忘了设这个闹钟是为了做什么?\r\n人们对于闹钟不感冒，但是对于电话却是天生敏感。\r\nSo?\r\n来吧，让echo为你打call！\r\n【电话提醒】，全网独家，今日内测。"
+        "new": "添加了电话提醒列表, 可对提醒任务关闭和恢复。"
     },
     "androidVersion": {
         "version": "0.9.9",
