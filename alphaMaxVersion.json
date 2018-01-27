@@ -1,9 +1,9 @@
 {
     "iOSVersion": {
-        "version": "0.8.9.4",
+        "version": "0.8.9.5",
         "appName": "Alpha Echo",
         "downloadUrl": "https://fir.im/ach9",
-        "new": "添加了电话提醒列表, 可对提醒任务关闭和恢复。"
+        "new": "1. 天气, 更懂你;\r\n2. 视频, 随心享。"
     },
     "androidVersion": {
         "version": "0.9.9",
