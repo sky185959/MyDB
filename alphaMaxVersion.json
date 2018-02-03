@@ -6,10 +6,10 @@
         "new": "1. 新增取词搜索(长按录音按钮);\r\n2. 失信人可以查询公司了;\r\n3. 提高流畅度。"
     },
     "iOSLightVersion": {
-        "version": "0.8.9.7",
+        "version": "0.8.9.8",
         "appName": "极光",
         "downloadUrl": "https://www.pgyer.com/9VGD",
-        "new": "1. 新增取词搜索(长按录音按钮);\r\n2. 失信人可以查询公司了;\r\n3. 提高流畅度。"
+        "new": "UI改版。"
     },
     "androidVersion": {
         "version": "0.9.9",
