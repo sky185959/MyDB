@@ -11,6 +11,8 @@
         "softwareCopyright": ["腾讯", "乐视影业", "抖音"],
         "dishonest": ["乐视", "贾跃亭", "中国平安", "中国银行", "中国工商", "三明弘惠", "环球造船（扬州）有限公司"],
         "trademark": ["苹果", "名创优品", "阿里巴巴", "宝马", "小米", "天猫", "小龙坎"],
+        "chineseContract": ["租赁"],
+        "englishContract": ["labour"],
     },
 
 }
