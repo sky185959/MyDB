@@ -13,7 +13,7 @@
         "trademark": ["苹果", "名创优品", "阿里巴巴", "宝马", "小米", "天猫", "小龙坎"],
         "chineseContract": ["劳动合同", "借款合同", "技术开发合同", "房屋租赁合同", "设备采购合同", "货物买卖合同", "委托代理协议", "建设工程合同"],
         "englishContract": ["employment", "construction", "insurance", "indemnity", "gurantee", "sale", "bailment"],
-        "lawCredit": ["阿里巴巴", "乐视影业", "抖音"],
+        "lawCredit": ["阿里巴巴", "乐视影业", "光线传媒", "天猫", "蓝色光标"],
     },
 
 }
