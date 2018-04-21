@@ -1,9 +1,9 @@
 {
     "iOSVersion": {
-        "version": "0.9.0.2",
+        "version": "0.9.0.3",
         "appName": "法律星球",
         "downloadUrl": "https://fir.im/ach9",
-        "new": "点击法钻有惊喜哟~"
+        "new": "提测封版"
     },
     "iOSLightVersion": {
         "version": "0.9.0.1",
